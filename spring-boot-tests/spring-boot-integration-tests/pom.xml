@@ -20,7 +20,8 @@
 		<module>spring-boot-devtools-tests</module>
 		<module>spring-boot-hibernate52-tests</module>
 		<module>spring-boot-server-tests</module>
-		<module>spring-boot-launch-script-tests</module>
+		<module>spring-boot-launch-script-tests</module>		
+		<module>spring-boot-mytest</module>
 	</modules>
 	<build>
 		<plugins>
